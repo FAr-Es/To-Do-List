@@ -1,0 +1,126 @@
+body {
+  margin-top: 100px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background-color: black;
+  flex-direction: column;
+}
+.hero {
+  background-color: #fdf0d5;
+  box-shadow: 0 20px 80px 1px #800e13;
+  border-radius: 30px;
+  transition: all 0.5s;
+}
+.hero:hover {
+  transform: scale(1.02);
+}
+
+.head-title {
+  font-size: 80px;
+  font-weight: bold;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ad2831;
+}
+
+input {
+  width: 500px;
+  height: 30px;
+  border-radius: 10px;
+  border: 0.5px black solid;
+  border: 2px solid #ad2831;
+  padding: 5px;
+  transition: all 0.3s ease;
+}
+input:focus {
+  outline: none;
+  border-color: #800e13;
+  transform: scale(1.02);
+}
+.input-field {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.input-field button {
+  width: 90px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: #ad2831;
+  font-size: 16px;
+  border: none;
+  font-weight: bold;
+  color: #fdf0d5;
+  cursor: pointer;
+  transition: all 0.5s;
+  margin: 10px;
+}
+.input-field button:hover {
+  background-color: #723453;
+}
+
+.task-counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  color: #ad2831;
+  font-weight: bold;
+}
+
+.table-head {
+  background: linear-gradient(135deg, #ad2831, #800e13);
+  width: 300px;
+  justify-content: space-around;
+  height: 40px;
+  font-size: 30px;
+  color: #fdf0d5;
+  border-radius: 20px;
+}
+td input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  margin: 0;
+  vertical-align: middle;
+}
+
+td {
+  font-size: 22px;
+  justify-content: space-evenly;
+  padding: 4px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+tbody tr {
+  border-bottom: 1px solid #414141;
+}
+
+tbody tr:last-child {
+  border-bottom: none;
+}
+
+td button {
+  background: transparent;
+  border: none;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+img {
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+img:hover {
+  transform: scale(1.2);
+}
