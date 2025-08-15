@@ -8,7 +8,7 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 - ✅ Mark tasks as done.
 - ❌ Delete tasks you no longer need.
 - 📊 Task counter to track your progress.
-- 🎨 Clean and responsive UI design.
+
 
 ## 🛠️ Technologies Used
 - HTML
