@@ -21,7 +21,7 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 3. Mark tasks as done or delete them when finished.
 
 ## 🚀 Live Demo
-GitHub Pages: (https://far-es.github.io/To-Do-List/)
+Try it now: (https://far-es.github.io/To-Do-List/)
 
 ---
 
