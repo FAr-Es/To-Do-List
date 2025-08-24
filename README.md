@@ -8,7 +8,7 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 - ✅ Mark tasks as done.
 - ❌ Delete tasks you no longer need.
 - 📊 Task counter to track your progress.
-
+- 📱 Responsive design (mobile-friendly)
 
 ## 🛠️ Technologies Used
 - HTML
@@ -19,6 +19,9 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 1. Type your task in the input field.
 2. Click **Add Task** or press `Enter`.
 3. Mark tasks as done or delete them when finished.
+
+🚀 Live Demo
+GitHub Pages: (https://far-es.github.io/To-Do-List/)
 
 ---
 
