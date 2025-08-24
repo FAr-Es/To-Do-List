@@ -20,7 +20,7 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 2. Click **Add Task** or press `Enter`.
 3. Mark tasks as done or delete them when finished.
 
-🚀 Live Demo
+## 🚀 Live Demo
 GitHub Pages: (https://far-es.github.io/To-Do-List/)
 
 ---
